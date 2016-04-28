@@ -2,7 +2,7 @@
 Please reference all codes at your own discretion.
 kthxbye
 
-README
+# README
 
 Collaboration
 - Nope. Did no collaborate with anyone. Shared some ideas of my implementation to those who asked. Help explain some of the flow of the sample code to those who asked.
